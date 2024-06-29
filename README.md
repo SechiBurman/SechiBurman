@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sechiburman&label=Profile%20views&color=0e75b6&style=flat" alt="sechiburman" /> </p>
 
-- 🔭 I’m currently working as **an Data Science Intern @NullClass**
+- 🔭 I’m currently working as **a Data Science Intern @NullClass**
 
 - 🌱 I’m currently learning **NLP, Computer Vision**
 
